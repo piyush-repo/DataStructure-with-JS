@@ -8,4 +8,9 @@ app.get('/', (req, res) => {
     console.log("root url");
     res.status(200).json({ success: true });
 })
+
+app.get('/get', (req, res) => {
+    console.log("get url");
+    res.status(200).json({ success: true });
+})
 app.listen(5000);
