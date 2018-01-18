@@ -1,0 +1,22 @@
+{
+  "name": "datastructure",
+  "version": "1.0.0",
+  "description": "Added binarySearch tree operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyush-repo/DataStructure-with-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyush-repo/DataStructure-with-JS/issues"
+  },
+  "homepage": "https://github.com/piyush-repo/DataStructure-with-JS#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
