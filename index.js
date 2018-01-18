@@ -9,6 +9,7 @@ app.get('/', (req, res) => {
     res.status(200).json({ success: true });
 })
 
+
 app.get('/get', (req, res) => {
     console.log("get url");
     res.status(200).json({ success: true });
